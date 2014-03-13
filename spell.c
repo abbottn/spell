@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// prints a string
 int main(void)
 {
     string s = GetString();
